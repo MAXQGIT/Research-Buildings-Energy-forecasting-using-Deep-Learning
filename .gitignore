@@ -1,0 +1,16 @@
+
+*.csv
+*.index
+*.data-00000-of-00001
+*.pb
+*.pb
+*.data-00000-of-00001
+models/*.data*
+models/*.index
+models/*.pb
+.ipynb_checkpoints/*.ipynb
+*.pyc
+*.pyc
+*.pyc
+__pycache__/data_pipeline.cpython-38.pyc
+.idea/*
