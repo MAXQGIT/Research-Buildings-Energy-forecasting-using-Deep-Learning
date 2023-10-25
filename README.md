@@ -7,6 +7,4 @@
 ### 项目训练顺序 1.Data_Preprocessing.ipynb（运行时间可能比较长） 2.然后就能通常的运行Final开头的训练代码了。
 ### 原始项目代码地址：https://github.com/shomerthesec/Research-Buildings-Energy-forecasting-using-Deep-Learning
 ### 最近看这方面的文章和复现代码。我都没看这个项目里有没有对应的预测代码，以后如果用到这个项目再写吧。这个就当作一个学习笔记，给大家分享一下，希望能帮助到大家。有需要请及时下载，我可能用到这个项目会删除这个项目，继续写预测代码。
-
----------------------------------------
     
